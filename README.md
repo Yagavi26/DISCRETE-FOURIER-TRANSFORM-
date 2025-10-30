@@ -131,6 +131,9 @@ xlabel('frequency (Hz)');
 ylabel('Phase');
 title('Phase Spectrum');
 
+
+
+
 # OUTPUT: 
 <img width="886" height="811" alt="image" src="https://github.com/user-attachments/assets/26517819-17aa-4d74-adbb-21fda361fb26" />
 <img width="916" height="798" alt="image" src="https://github.com/user-attachments/assets/b1396ba6-16e0-45b0-8602-46bbf3675e2b" />
